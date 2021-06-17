@@ -1999,10 +1999,10 @@
   dependencies:
     "@opentelemetry/context-base" "^0.14.0"
 
-"@opentelemetry/api@^0.20.0":
-  version "0.20.0"
-  resolved "https://registry.yarnpkg.com/@opentelemetry/api/-/api-0.20.0.tgz#d4e26d30dc0c5da697d1ff51434ad8f0cf30e565"
-  integrity sha512-n06MtDYEc2H07S/NTvGMlxF2Ijp0YbNrI/rBgLcxpEh3hxOkPZA12gxlUoZkBHWCZYau2j3b/uL+QFpiQKOjSw==
+"@opentelemetry/api@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@opentelemetry/api/-/api-1.0.0.tgz#cc7712009095697f8a9492ee375daa08588ba263"
+  integrity sha512-TcdhrGy+ehLIFs79/TcWiHiPujishrhSgQ7wxvWvk8WY2YT8Np/pYXmRP94voG3N8GJ/5nIVyzacfViwhN50AQ==
 
 "@opentelemetry/context-base@^0.14.0":
   version "0.14.0"
